@@ -27,3 +27,7 @@
 <img src="https://github.com/crazy-diya/Jobbox/assets/61883398/df9ec1ef-2c0d-44c5-83f7-14328f75252a" width="200" />
 <img src="https://github.com/crazy-diya/Jobbox/assets/61883398/3b746a65-d260-4cdd-a736-847d67344d48" width="200" />
 <img src="https://github.com/crazy-diya/Jobbox/assets/61883398/c9095543-3594-4de7-ae42-5ad54fdaeed8" width="200" />
+
+## Folder Structure
+<img width="421" alt="Screenshot 2024-01-15 at 13 24 56" src="https://github.com/crazy-diya/Jobbox/assets/61883398/5176e297-c0ed-402c-85e9-f0259aa6432e">
+
