@@ -70,7 +70,7 @@ class _JobListingsScreenState extends State<JobListingsScreen> with TickerProvid
                       height: 20.h,
                     ),
                     Container(
-                      padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 5),
+                      padding: const EdgeInsets.symmetric(horizontal: 5, vertical: 0),
                       decoration: BoxDecoration(
                         color: AppColors.colorWhite.withOpacity(0.09),
                         borderRadius: BorderRadius.circular(10.r),
@@ -93,7 +93,7 @@ class _JobListingsScreenState extends State<JobListingsScreen> with TickerProvid
                       ),
                     ),
                     SizedBox(
-                      height: 30.h,
+                      height: 28.h,
                     ),
                   ],
                 ),
