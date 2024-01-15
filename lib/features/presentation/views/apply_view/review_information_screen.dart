@@ -256,7 +256,7 @@ class _ReviewInformationScreenState extends State<ReviewInformationScreen> {
                         return Container(
                           width: 100.w,
                           margin: const EdgeInsets.only(right: 10),
-                          padding: const EdgeInsets.all(10),
+                          padding: const EdgeInsets.all(8),
                           decoration: BoxDecoration(
                               borderRadius: BorderRadius.circular(10.r),
                               border: Border.all(color: AppColors.fontColorDarkBrown)),
