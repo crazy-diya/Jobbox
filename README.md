@@ -1,3 +1,9 @@
+## in here Used 
+  - CLEAN ARCHITECTURE
+  - BLOC state management tool
+  - External Packages
+## This application perfectly works for "ANDROID" and "iOS" Devices.
+
 ## Assignment Screenshot
 <img src="https://github.com/crazy-diya/Jobbox/assets/61883398/500d63a7-359b-485f-92c4-71d5de05a6d3" width="200" />
 <img src="https://github.com/crazy-diya/Jobbox/assets/61883398/42591062-5c05-4ba9-a757-1c620ee25a51" width="200" />  
