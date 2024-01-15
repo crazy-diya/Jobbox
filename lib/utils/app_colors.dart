@@ -20,6 +20,5 @@ class AppColors {
   static const Color focusedBorderColor = Color(0xFF3F51B5);
   static const Color errorBorderColor = Color(0xFFF44336);
   static const Color hintTextColor = Color(0xFFC8C8C8);
-  static const Color errorColor = Color(0xFFCF4545);
   static const Color eyeColorDark = Color(0xFF212121);
 }
