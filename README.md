@@ -30,4 +30,5 @@
 
 ## Folder Structure
 <img width="421" alt="Screenshot 2024-01-15 at 13 24 56" src="https://github.com/crazy-diya/Jobbox/assets/61883398/5176e297-c0ed-402c-85e9-f0259aa6432e">
+<img width="421" alt="Screenshot 2024-01-15 at 13 27 38" src="https://github.com/crazy-diya/Jobbox/assets/61883398/14f06307-8665-402d-bfbc-53524a5a46a2">
 
